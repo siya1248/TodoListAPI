@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TodoList.Models\TodoList.Models.csproj" />
+  </ItemGroup>
+
 </Project>
